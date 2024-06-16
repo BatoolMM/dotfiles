@@ -1,9 +1,6 @@
 # Shortcuts
 alias ch='history | grep "git commit"'
 alias hg='history | grep'
-alias yt="subl '$HOME/Google Drive/My Drive/YouTube/Scripts/'"
-alias cyt="cd '$HOME/Google Drive/My Drive/YouTube/Scripts/'"
-alias oyt="open '$HOME/Google Drive/My Drive/YouTube/Scripts/'"
 
 # Detect which `ls` flavor is in use
 if ls --color >/dev/null 2>&1; then # GNU `ls`
@@ -51,5 +48,5 @@ alias reg_mode='defaults write com.apple.dock autohide -bool false && killall Do
 alias clean='rm -rf ~/.Trash/*; rm -rf ~/Downloads/*'
 
 # Virtual Environments
-alias wipe_env='rm -rf ~/venvs/tutorial; python3 -m venv ~/venvs/tutorial'
-alias tut_env='source ~/venvs/tutorial/bin/activate'
+
+alisa cprd_syn ='ssh -i /Users/balmarzouq/.ssh/id_ed25519  bm_user@20.68.242.38'
