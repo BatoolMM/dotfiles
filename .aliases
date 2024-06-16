@@ -49,4 +49,4 @@ alias clean='rm -rf ~/.Trash/*; rm -rf ~/Downloads/*'
 
 # Virtual Environments
 
-alisa cprd_syn ='ssh -i /Users/balmarzouq/.ssh/id_ed25519  bm_user@20.68.242.38'
+alias cprd_syn='ssh -i /Users/balmarzouq/.ssh/id_ed25519  bm_user@20.68.242.38'
