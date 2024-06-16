@@ -82,7 +82,6 @@ apps=(
     "visual-studio-code"
     "virtualbox"
     "spotify"
-    "discord"
     "google-drive"
     "gimp"
     "vlc"
@@ -129,12 +128,6 @@ brew upgrade --cask
 brew cleanup
 
 echo "Sign in to Google Chrome. Press enter to continue..."
-read
-
-echo "Sign in to Spotify. Press enter to continue..."
-read
-
-echo "Sign in to Discord. Press enter to continue..."
 read
 
 echo "Open Rectangle and give it necessary permissions. Press enter to continue..."
