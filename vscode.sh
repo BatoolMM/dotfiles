@@ -17,6 +17,8 @@ extensions=(
     formulahendry.code-runner
     esbenp.prettier-vscode
     znck.grammarly
+    ms-vscode-remote.remote-ssh
+    ckolkman.vscode-postgres
 )
 
 # Get a list of all currently installed extensions.
