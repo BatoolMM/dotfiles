@@ -81,7 +81,6 @@ apps=(
     "sublime-text"
     "visual-studio-code"
     "virtualbox"
-    "spotify"
     "google-drive"
     "gimp"
     "vlc"
